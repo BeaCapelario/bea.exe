@@ -74,6 +74,8 @@
 
 <br>
 <br>
+<br>
+
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BeaCapelario&show_icons=true&locale=en" alt="BeaCapelario" /></p>
