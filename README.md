@@ -55,9 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BeaCapelario&show_icons=true&locale=en" alt="BeaCapelario" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BeaCapelario&" alt="BeaCapelario" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeaCapelario&show_icons=true&locale=en&layout=compact" alt="BeaCapelario" /></p>
+<center><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BeaCapelario&show_icons=true&locale=en" alt="BeaCapelario" /></p></center>
+<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BeaCapelario&" alt="BeaCapelario" /></p></center>
+<center><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeaCapelario&show_icons=true&locale=en&layout=compact" alt="BeaCapelario" /></p></center>
 
 
 <div align="center">
