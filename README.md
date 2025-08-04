@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/9e/8c/38/9e8c389166e535be2b1c67be98b078e8.gif"  />
 </div>
 
 
@@ -11,9 +11,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/9e/8c/38/9e8c389166e535be2b1c67be98b078e8.gif"  />
-</div>
 
 
 <br clear="both">
