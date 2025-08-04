@@ -56,7 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
-###
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BeaCapelario&show_icons=true&locale=en" alt="BeaCapelario" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BeaCapelario&" alt="BeaCapelario" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeaCapelario&show_icons=true&locale=en&layout=compact" alt="BeaCapelario" /></p>
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
