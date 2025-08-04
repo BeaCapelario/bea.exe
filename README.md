@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi! My name is Bea Capelario :)</h1>
+<h1 align="center">Ი︵𐑼𝗛𝗶! 𝗜'𝗺 𝗕𝗲𝗮 𝗖𝗮𝗽𝗲𝗹𝗮𝗿𝗶𝗼₊⊹</h1>
 
 ###
 
