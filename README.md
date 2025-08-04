@@ -3,11 +3,11 @@
 </div>
 
 
-<h2 align="center">Hi! My name is Bea Capelario :)</h2>
+<h1 align="center">Hi! My name is Bea Capelario :)</h1>
 
 ###
 
-<h3 align="center">♡⊹˚₊ 𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝘆𝗼𝘂𝗻𝗴 𝗮𝗽𝗽𝗿𝗲𝗻𝘁𝗶𝗰𝗲, 𝗳𝘂𝘁𝘂𝗿𝗲 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ⊹₊ ⋆</h3>
+<h2 align="center">♡⊹˚₊ 𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝘆𝗼𝘂𝗻𝗴 𝗮𝗽𝗽𝗿𝗲𝗻𝘁𝗶𝗰𝗲, 𝗳𝘂𝘁𝘂𝗿𝗲 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ⊹₊ ⋆</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 
 
 <div align="center">
-  <h4>⚡️ Where to find me</h4>
+  <h3>⚡️ Where to find me</h3>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
