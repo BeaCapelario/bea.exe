@@ -86,8 +86,3 @@
   <img height="200" src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif"  />
 </div>
 
-###
-
-<img align="left" height="200" src="https://i.pinimg.com/originals/f1/f1/a2/f1f1a2f12fa3daf055a132ae98c6221c.gif"  />
-
-###
