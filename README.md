@@ -91,4 +91,3 @@
 </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bea.exe&showicons=true&theme=radical)
