@@ -90,3 +90,5 @@
   <img height="200" src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif"  />
 </div>
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bea.exe&showicons=true&theme=radical)
